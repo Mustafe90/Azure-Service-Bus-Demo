@@ -1,0 +1,4 @@
+C:\Users\musta\source\repos\Azure-Service-Bus-Demo\QueueReciever\bin\Debug\netcoreapp3.0\QueueReciever.exe
+C:\Users\musta\source\repos\Azure-Service-Bus-Demo\QueueReciever\obj\Debug\netcoreapp3.0\QueueReciever.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\Azure-Service-Bus-Demo\QueueReciever\obj\Debug\netcoreapp3.0\QueueReciever.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\Azure-Service-Bus-Demo\QueueReciever\obj\Debug\netcoreapp3.0\QueueReciever.AssemblyInfo.cs
